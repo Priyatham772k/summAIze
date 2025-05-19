@@ -1,7 +1,7 @@
 
-# 📚 InsightScope – AI-Powered Research Assistant
+# 📚 summAIze – AI-Powered Research Assistant
 
-**InsightScope** is a streamlined, smart research assistant built with OpenAI and OCR tech. It lets users upload documents, extract key insights, summarize text, and detect bias — all from PDFs, images, or URLs.
+**summAIze** is a streamlined, smart research assistant built with OpenAI and OCR tech. It lets users upload documents, extract key insights, summarize text, and detect bias — all from PDFs, images, or URLs.
 
 ---
 
